@@ -1,0 +1,11 @@
+name = "abeth"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "4d937cf2-fb86-4a58-ab3e-4848ca698027"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
